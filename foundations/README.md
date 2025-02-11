@@ -17,3 +17,5 @@ This folder contains the projects and exercises I’ve developed as part of the 
 ### Exercices
 
 **Introduction to CSS** is a foundational course from The Odin Project that focuses on teaching the basics of CSS (Cascading Style Sheets). This course is designed to help beginners understand how to add styles to HTML elements, making web pages visually appealing and well-structured. The course covers essential CSS concepts and provides hands-on exercises to reinforce learning.
+
+**Cascade: CSS Methods** is an exercise from The Odin Project's CSS Foundations course that focuses on understanding the CSS cascade, particularly specificity and rule order. This exercise provides a pre-filled HTML and CSS file, allowing you to practice editing and resolving specificity and rule order issues without adding new rules.
