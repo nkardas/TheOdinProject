@@ -14,4 +14,6 @@ This folder contains the projects and exercises I’ve developed as part of the 
 
 **Odin Recipes** *(https://nkardas.github.io/odin-recipes/)* is a basic recipe website built using HTML. This project focuses on practicing HTML skills by creating a structured and functional web page. The website consists of a main index page with links to individual recipe pages. Each recipe page includes an image, description, list of ingredients, and steps to prepare the dish.
 
+### Exercices
+
 **Introduction to CSS** is a foundational course from The Odin Project that focuses on teaching the basics of CSS (Cascading Style Sheets). This course is designed to help beginners understand how to add styles to HTML elements, making web pages visually appealing and well-structured. The course covers essential CSS concepts and provides hands-on exercises to reinforce learning.
